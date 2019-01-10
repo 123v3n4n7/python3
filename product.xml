@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<root>
+ <name>Product for you</name>
+ <product color="white">
+  <decr color="green">text decr 1</decr>
+  <article color="white">Text article 1</article>
+  <article color="white">Text article 1</article>
+ </product>
+ <product color="white">
+  <decr color="green">text decr 1</decr>
+  <article color="white">Text article 1</article>
+  <article color="white">Text article 1</article>
+ </product>
+</root>
